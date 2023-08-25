@@ -103,6 +103,8 @@ endmodule
 ### LOGIC SYMBOL & TRUTH TABLE:
 ![image](https://github.com/ShamRathan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/93587823/c844f2d3-3921-415d-b158-0cc4f8ebe230)
 ### OUTPUT WAVEFORM VERIFIED:
+![image](https://github.com/ShamRathan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/93587823/a5dd9fb7-35ed-42f0-bcd2-2b7f0f9b5d57)
+
 
 
 ### Result:
