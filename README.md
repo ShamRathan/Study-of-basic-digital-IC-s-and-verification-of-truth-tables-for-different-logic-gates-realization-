@@ -51,7 +51,7 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-### Procedure
+### PROCEDURE:
 
 1. Connect the supply (+5V) to the circuit Switch ON the main switch Press the switches for inputs “A” and “B”. 
 
